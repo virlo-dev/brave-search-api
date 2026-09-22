@@ -66,4 +66,5 @@ At the Search plan rate, the $5 monthly credit covers 1,000 requests a month bef
 
 Search is usually one tool in an agent, not the whole agent. If the next step after retrieving results is to produce something, a hero image for a page, a short video, a voiceover, you need a model API alongside the search API. [Try Synexa - one REST endpoint and a Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=brave-search-api&utm_content=readme-top&utm_term=tier-r). It is priced per run, which pairs naturally with Brave's per-request model: no monthly seat, no GPU to keep warm, and one endpoint for all the models instead of one integration per vendor.
 
+
 _Last reviewed: 2026-09-22_
